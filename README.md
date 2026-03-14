@@ -1,3 +1,3 @@
 # Introduction to AI
 
-Chatbot Gym Assistant
+Project 2 - Chatbot Gym Assistant
